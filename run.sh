@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hey Lazzzzzzzzy"
+echo "Hey"
 sleep 1
 
 echo "Running Fan In/Fan Out"
@@ -27,4 +27,5 @@ go run atomic/main.go
 sleep 1
 
 echo " "
-echo "Nikl"
+echo "Goodbye"
+
