@@ -1,4 +1,21 @@
+# Golang Concurrency Patterns 🧵
 
+This repository contains simple, self-contained examples of core concurrency patterns in Go. Each pattern demonstrates a fundamental approach to structuring concurrent programs using goroutines, channels, and sync primitives.
+
+## Folder Structure 📁
+
+concurrency/
+├── atomic/
+│ └── main.go
+├── fan_in_out/
+│ └── main.go
+├── pipeline/
+│ ├── V1/
+│ │ └── main.go
+│ └── V2/
+│ └── main.go
+├── worker_pool/
+│ └── main.go
 ---
 
 ## Patterns Explained 🔍
